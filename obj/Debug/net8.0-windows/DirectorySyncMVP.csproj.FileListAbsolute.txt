@@ -1,0 +1,16 @@
+C:\Users\vadim\source\repos\DirectorySyncMVP\DirectorySyncMVP\bin\Debug\net8.0-windows\DirectorySyncMVP.exe
+C:\Users\vadim\source\repos\DirectorySyncMVP\DirectorySyncMVP\bin\Debug\net8.0-windows\DirectorySyncMVP.deps.json
+C:\Users\vadim\source\repos\DirectorySyncMVP\DirectorySyncMVP\bin\Debug\net8.0-windows\DirectorySyncMVP.runtimeconfig.json
+C:\Users\vadim\source\repos\DirectorySyncMVP\DirectorySyncMVP\bin\Debug\net8.0-windows\DirectorySyncMVP.dll
+C:\Users\vadim\source\repos\DirectorySyncMVP\DirectorySyncMVP\bin\Debug\net8.0-windows\DirectorySyncMVP.pdb
+C:\Users\vadim\source\repos\DirectorySyncMVP\DirectorySyncMVP\obj\Debug\net8.0-windows\DirectorySyncMVP.Form1.resources
+C:\Users\vadim\source\repos\DirectorySyncMVP\DirectorySyncMVP\obj\Debug\net8.0-windows\DirectorySyncMVP.csproj.GenerateResource.cache
+C:\Users\vadim\source\repos\DirectorySyncMVP\DirectorySyncMVP\obj\Debug\net8.0-windows\DirectorySyncMVP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\source\repos\DirectorySyncMVP\DirectorySyncMVP\obj\Debug\net8.0-windows\DirectorySyncMVP.AssemblyInfoInputs.cache
+C:\Users\vadim\source\repos\DirectorySyncMVP\DirectorySyncMVP\obj\Debug\net8.0-windows\DirectorySyncMVP.AssemblyInfo.cs
+C:\Users\vadim\source\repos\DirectorySyncMVP\DirectorySyncMVP\obj\Debug\net8.0-windows\DirectorySyncMVP.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\repos\DirectorySyncMVP\DirectorySyncMVP\obj\Debug\net8.0-windows\DirectorySyncMVP.dll
+C:\Users\vadim\source\repos\DirectorySyncMVP\DirectorySyncMVP\obj\Debug\net8.0-windows\refint\DirectorySyncMVP.dll
+C:\Users\vadim\source\repos\DirectorySyncMVP\DirectorySyncMVP\obj\Debug\net8.0-windows\DirectorySyncMVP.pdb
+C:\Users\vadim\source\repos\DirectorySyncMVP\DirectorySyncMVP\obj\Debug\net8.0-windows\DirectorySyncMVP.genruntimeconfig.cache
+C:\Users\vadim\source\repos\DirectorySyncMVP\DirectorySyncMVP\obj\Debug\net8.0-windows\ref\DirectorySyncMVP.dll
